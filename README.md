@@ -1,4 +1,4 @@
-# Jardim Inteligente
+# Vaso Inteligente
 
 Este projeto tem como objetivo desenvolver um sistema inteligente de irrigação, utilizando sensores de umidade e um aplicativo para monitoramento e controle remoto.
 
