@@ -26,8 +26,7 @@ A documentação está organizada na pasta [`algoritmos/`](./algoritmos):
 
 ## Protótipos (Figma)
 Os protótipos e fluxos de dados foram criados no Figma.  
-- Coloque aqui o link compartilhado do Figma.  
-- Exporte também imagens (.png ou .jpg) e salve na pasta `/figma`.
+- https://www.figma.com/design/1SvcVdSXk6BYH37UuaX6Mc/VASO-INTELIGENTE?node-id=0-1&t=s2q6qDFpX8Q9LJoo-1
 
 ---
 
