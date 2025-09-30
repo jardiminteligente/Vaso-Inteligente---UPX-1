@@ -28,6 +28,7 @@ A documentação está organizada na pasta [`algoritmos/`](./algoritmos):
 Os protótipos e fluxos de dados foram criados no Figma.  
 - https://www.figma.com/design/1SvcVdSXk6BYH37UuaX6Mc/VASO-INTELIGENTE?node-id=0-1&t=s2q6qDFpX8Q9LJoo-1
 - https://www.figma.com/slides/n58nEJdTPUkjPYGkHIqUoE/Prot%C3%B3tipos-visuais?node-id=1-42&t=Q98nfHrkZPNVH8LG-1
+- https://www.figma.com/design/iI3Btea7HO3P4KHEHOGHSZ/SAGE?node-id=0-1&t=luhjgAvGlUvCgx3p-1
 
 ---
 
